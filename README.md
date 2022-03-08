@@ -1,7 +1,7 @@
-- ### Hi there 👋, my name is Stilyan Manolov.
-- ### 👀 I'm interested in programming, swimming, and video games.
-- ### 🌱 I'm currently learning javascript and html.
-- ### 📫 You can reach me at stilianmanolov05@gmail.com
+### Hi there 👋, my name is Stilyan Manolov.
+-  👀 I'm interested in programming, swimming, and video games.
+-  🌱 I'm currently learning javascript and html.
+-  📫 You can reach me at stilianmanolov05@gmail.com
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stili559) 
 
