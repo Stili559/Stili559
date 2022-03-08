@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Stilyan Manolov.
+-  💬 I’m Stilyan Plamen Manolov and I’m a 16-year-old boy.
 -  👀 I'm interested in programming, swimming, and video games.
 -  🌱 I'm currently learning javascript and html.
 -  📫 You can reach me at stilianmanolov05@gmail.com
+-  😄 Pronouns: he/him
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Stili559) 
 
