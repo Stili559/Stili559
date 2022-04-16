@@ -5,7 +5,7 @@
 -  📫 You can reach me at stilianmanolov05@gmail.com
 -  😄 Pronouns: he/him
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stili559?cardType=level&theme=ayu-mirage)](https://git.io/awesome-stats-card)
+
 
 <!---
 Stili559/Stili559 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
