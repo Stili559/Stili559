@@ -12,10 +12,17 @@ Here are some of the technologies and tools that I work with:
 - C#
 - SQL
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20HTML%20%7C%20CSS%20%7C%20SQL%20%7C%20C%23-blue?style=flat-square">
 </p>
+
+You can find resources and documentation for these skills here:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [SQL](https://www.w3schools.com/sql/)
 
 ## Current Focus
 
