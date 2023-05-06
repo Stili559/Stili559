@@ -44,7 +44,7 @@ You can find me on the following social media platforms:
 
 - [Instagram](https://instagram.com/st_ili?igshid=ZGUzMzM3NWJiOQ==)
 - [Facebook](https://www.facebook.com/profile.php?id=100024002704152)
-- [LinkedIn](www.linkedin.com/in/стилиан-манолов-112bb1199)
+- [LinkedIn](https://www.linkedin.com/in/stilyan-manolov-112bb1199)
 
 Feel free to connect with me on any of these platforms! I'm always interested in meeting new people and exploring new opportunities.
 
