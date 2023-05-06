@@ -34,10 +34,19 @@ I'm currently focused on improving my skills in JavaScript and Html, and also le
 
 When I'm not programming, I enjoy playing video games, hiking, and swimming. I also love learning about new things.
 
-
 ## Contact Me
 
 Feel free to contact me for any reason, even just to say hi! You can reach me at stilianmanolov05@gmail.com. I'm always looking for new opportunities and connections!
+
+## Social Media
+
+You can find me on the following social media platforms:
+
+- [Instagram](https://instagram.com/st_ili?igshid=ZGUzMzM3NWJiOQ==)
+- [Facebook](https://www.facebook.com/profile.php?id=100024002704152)
+- [LinkedIn](www.linkedin.com/in/стилиан-манолов-112bb1199)
+
+Feel free to connect with me on any of these platforms! I'm always interested in meeting new people and exploring new opportunities.
 
 ## Portfolio 
 
