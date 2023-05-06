@@ -1,17 +1,33 @@
-### Hi there 👋, my name is Stilyan Manolov
--  💬 I’m Stilyan Plamen Manolov and I’m a 17-year-old
--  👀 I'm interested in programming, swimming, and video games
--  🌱 I'm currently learning javascript
--  📫 You can reach me at stilianmanolov05@gmail.com
--  😄 Pronouns: he/him
+
+# Hi there 👋, my name is Stilyan Manolov!
+
+I'm a 17-year-old programmer who is passionate about using technology to solve real-world problems. When I'm not coding, you can find me swimming or playing video games.
 
 ## Skills
-- C# ![C# logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png)
-- JavaScript ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png)
-- HTML ![HTML logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png)
-- CSS ![CSS logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/120px-CSS.3.svg.png)
-- SQL ![SQL logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/120px-Sql_data_base_with_logo.png)
 
+- JavaScript
+- HTML
+- CSS
+- Python
+- SQL
+
+## Projects
+
+- **Project 1:** Description of project 1
+- **Project 2:** Description of project 2
+- **Project 3:** Description of project 3
+
+## Current Focus
+
+I'm currently focused on learning JavaScript, as I believe it's a versatile language that can be used for both front-end and back-end development. I'm also interested in exploring new technologies and frameworks that can help me improve my skills.
+
+## Contact Me
+
+You can reach me at stilianmanolov05@gmail.com. Let's connect!
+
+## Pronouns
+
+He/him
 
 
 <!---
