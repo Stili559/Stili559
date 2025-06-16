@@ -50,10 +50,6 @@ Here are some of the technologies and tools that I work with:
 
 🤝 Feel free to connect with me on any of these platforms! I'm always interested in meeting new people and exploring new opportunities.
 
-## Portfolio 
-
-👀 If you're interested in seeing more about me, you can check out my [portfolio](https://sites.google.com/view/stilian-learning-journey/home?authuser=0), which showcases my work and provides more information about my experience.
-
 ## Pronouns
 
 👦 He/him
