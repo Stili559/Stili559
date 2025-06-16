@@ -44,7 +44,7 @@ Here are some of the technologies and tools that I work with:
 
 🌐 You can find me on the following social media platforms:
 
-- [Instagram](https://instagram.com/st_ili?igshid=ZGUzMzM3NWJiOQ==)
+- [Instagram](https://instagram.com/_s.manolov._?igshid=ZGUzMzM3NWJiOQ==)
 - [Facebook](https://www.facebook.com/profile.php?id=100024002704152)
 - [LinkedIn](https://www.linkedin.com/in/stilyan-manolov-112bb1199)
 
