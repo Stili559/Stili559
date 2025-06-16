@@ -1,6 +1,6 @@
 # Hi there, I'm Stilyan Manolov! 👋
 
-👨‍💻 I'm a 18-year-old programmer who is passionate about using technology to solve real-world problems.
+👨‍💻 I'm a 19-year-old programmer who is passionate about using technology to solve real-world problems.
 
 🚀 I love learning new things and constantly improving my skills. I have experience developing web applications using JavaScript, HTML, and CSS.
 
